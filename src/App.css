@@ -141,6 +141,13 @@
     padding: 0;
     cursor: pointer;
   }
+  .main_heading {
+    color: #2b3467;
+    font-size: 2.25rem;
+    line-height: 3rem;
+    font-weight: 900;
+    margin-bottom: 50px;
+  }
   .heading_container {
     margin: 15px;
     margin-top: 40px;
